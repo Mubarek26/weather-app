@@ -4,3 +4,10 @@ SEng-5131 Requirements Engineering
 SEng-5331 Software Engineering Tools and Practices
 SEng-7131 Web Design and Programming
 SEng-7431 Fundamentals of Software Security
+
+SEng-5232 Software Architecture and Design
+SEng-6132 Advanced Programming
+SEng-7232 Fundamentals of Cloud Computing & IoT
+SEng-7332 Fundamentals of Distributed Systems
+SEng-9032 Fundamentals of Machine Learning
+SEng-6032 Software Project Management
